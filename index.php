@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<title>Daftar Training
+	</title>
 <style>
 body, html {
   height: 100%;

@@ -14,7 +14,11 @@ CREATE DATABASE example_database;
         content VARCHAR(255),
         PRIMARY KEY(item_id)
     );
-    INSERT INTO example_database.todo_list (content) VALUES ("My first important item");
+    INSERT INTO example_database.todo_list (content) VALUES ("API");
+    INSERT INTO example_database.todo_list (content) VALUES ("MICROSERVICE");
+    INSERT INTO example_database.todo_list (content) VALUES ("DEVOPS & AUTOMATION");
+    INSERT INTO example_database.todo_list (content) VALUES ("OS");
+    INSERT INTO example_database.todo_list (content) VALUES ("VM & LEMP STACK");
     SELECT * FROM example_database.todo_list;
 
 exit

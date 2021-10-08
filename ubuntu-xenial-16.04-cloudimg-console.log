@@ -1,0 +1,576 @@
+[12852.669075] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12852.678216] EXT4-fs (sda1): previous I/O error to superblock detected
+[12852.682526] sd 2:0:0:0: rejecting I/O to offline device
+[12852.686196] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12852.719227] EXT4-fs (sda1): previous I/O error to superblock detected
+[12852.723562] sd 2:0:0:0: rejecting I/O to offline device
+[12852.727376] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12852.736162] EXT4-fs (sda1): previous I/O error to superblock detected
+[12852.740960] sd 2:0:0:0: rejecting I/O to offline device
+[12852.743370] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12852.748216] EXT4-fs (sda1): previous I/O error to superblock detected
+[12852.750423] sd 2:0:0:0: rejecting I/O to offline device
+[12857.757033] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12857.762210] EXT4-fs (sda1): previous I/O error to superblock detected
+[12857.764498] sd 2:0:0:0: rejecting I/O to offline device
+[12857.766373] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12857.771435] EXT4-fs (sda1): previous I/O error to superblock detected
+[12857.773433] sd 2:0:0:0: rejecting I/O to offline device
+[12857.775081] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12857.779539] EXT4-fs (sda1): previous I/O error to superblock detected
+[12857.781688] sd 2:0:0:0: rejecting I/O to offline device
+[12857.783315] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12857.788194] EXT4-fs (sda1): previous I/O error to superblock detected
+[12857.790394] sd 2:0:0:0: rejecting I/O to offline device
+[12862.792496] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12862.798990] EXT4-fs (sda1): previous I/O error to superblock detected
+[12862.801361] sd 2:0:0:0: rejecting I/O to offline device
+[12862.803650] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12862.809609] EXT4-fs (sda1): previous I/O error to superblock detected
+[12862.811848] sd 2:0:0:0: rejecting I/O to offline device
+[12862.814777] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12862.819366] EXT4-fs (sda1): previous I/O error to superblock detected
+[12862.822419] sd 2:0:0:0: rejecting I/O to offline device
+[12862.824066] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12862.829331] EXT4-fs (sda1): previous I/O error to superblock detected
+[12862.831717] sd 2:0:0:0: rejecting I/O to offline device
+[12867.841887] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12867.851221] EXT4-fs (sda1): previous I/O error to superblock detected
+[12867.855865] sd 2:0:0:0: rejecting I/O to offline device
+[12867.860738] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12867.872657] EXT4-fs (sda1): previous I/O error to superblock detected
+[12867.875743] sd 2:0:0:0: rejecting I/O to offline device
+[12867.879182] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12867.889894] EXT4-fs (sda1): previous I/O error to superblock detected
+[12867.894998] sd 2:0:0:0: rejecting I/O to offline device
+[12867.898986] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12867.911730] EXT4-fs (sda1): previous I/O error to superblock detected
+[12867.917013] sd 2:0:0:0: rejecting I/O to offline device
+[12872.924025] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12872.931107] EXT4-fs (sda1): previous I/O error to superblock detected
+[12872.934754] sd 2:0:0:0: rejecting I/O to offline device
+[12872.937615] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12872.946071] EXT4-fs (sda1): previous I/O error to superblock detected
+[12872.949203] sd 2:0:0:0: rejecting I/O to offline device
+[12872.952164] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12872.959974] EXT4-fs (sda1): previous I/O error to superblock detected
+[12872.963468] sd 2:0:0:0: rejecting I/O to offline device
+[12872.966534] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12872.974915] EXT4-fs (sda1): previous I/O error to superblock detected
+[12872.978181] sd 2:0:0:0: rejecting I/O to offline device
+[12877.983790] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12877.991385] EXT4-fs (sda1): previous I/O error to superblock detected
+[12877.993994] sd 2:0:0:0: rejecting I/O to offline device
+[12877.996904] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12878.003870] EXT4-fs (sda1): previous I/O error to superblock detected
+[12878.007081] sd 2:0:0:0: rejecting I/O to offline device
+[12878.009625] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12878.014480] EXT4-fs (sda1): previous I/O error to superblock detected
+[12878.016697] sd 2:0:0:0: rejecting I/O to offline device
+[12878.019188] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12878.027138] EXT4-fs (sda1): previous I/O error to superblock detected
+[12878.031217] sd 2:0:0:0: rejecting I/O to offline device
+[12883.042473] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12883.051983] EXT4-fs (sda1): previous I/O error to superblock detected
+[12883.057277] sd 2:0:0:0: rejecting I/O to offline device
+[12883.061371] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12883.071162] EXT4-fs (sda1): previous I/O error to superblock detected
+[12883.075610] sd 2:0:0:0: rejecting I/O to offline device
+[12883.080569] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12883.089764] EXT4-fs (sda1): previous I/O error to superblock detected
+[12883.094514] sd 2:0:0:0: rejecting I/O to offline device
+[12883.097546] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12883.106443] EXT4-fs (sda1): previous I/O error to superblock detected
+[12883.110247] sd 2:0:0:0: rejecting I/O to offline device
+[12888.114641] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12888.119184] EXT4-fs (sda1): previous I/O error to superblock detected
+[12888.122030] sd 2:0:0:0: rejecting I/O to offline device
+[12888.124779] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12888.129607] EXT4-fs (sda1): previous I/O error to superblock detected
+[12888.133094] sd 2:0:0:0: rejecting I/O to offline device
+[12888.135376] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12888.139704] EXT4-fs (sda1): previous I/O error to superblock detected
+[12888.142895] sd 2:0:0:0: rejecting I/O to offline device
+[12888.144913] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12888.151834] EXT4-fs (sda1): previous I/O error to superblock detected
+[12888.157403] sd 2:0:0:0: rejecting I/O to offline device
+[12893.172310] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12893.185416] EXT4-fs (sda1): previous I/O error to superblock detected
+[12893.193141] sd 2:0:0:0: rejecting I/O to offline device
+[12893.199866] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12893.209679] EXT4-fs (sda1): previous I/O error to superblock detected
+[12893.215144] sd 2:0:0:0: rejecting I/O to offline device
+[12893.219270] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12893.227892] EXT4-fs (sda1): previous I/O error to superblock detected
+[12893.232337] sd 2:0:0:0: rejecting I/O to offline device
+[12893.235927] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12893.245703] EXT4-fs (sda1): previous I/O error to superblock detected
+[12893.270670] sd 2:0:0:0: rejecting I/O to offline device
+[12898.282067] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12898.291785] EXT4-fs (sda1): previous I/O error to superblock detected
+[12898.296717] sd 2:0:0:0: rejecting I/O to offline device
+[12898.300548] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12898.316004] EXT4-fs (sda1): previous I/O error to superblock detected
+[12898.319902] sd 2:0:0:0: rejecting I/O to offline device
+[12898.323248] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12898.333037] EXT4-fs (sda1): previous I/O error to superblock detected
+[12898.337227] sd 2:0:0:0: rejecting I/O to offline device
+[12898.341508] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12898.347755] EXT4-fs (sda1): previous I/O error to superblock detected
+[12898.351217] sd 2:0:0:0: rejecting I/O to offline device
+[12903.356322] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12903.364988] EXT4-fs (sda1): previous I/O error to superblock detected
+[12903.369167] sd 2:0:0:0: rejecting I/O to offline device
+[12903.372825] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12903.382190] EXT4-fs (sda1): previous I/O error to superblock detected
+[12903.386685] sd 2:0:0:0: rejecting I/O to offline device
+[12903.390420] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12903.399015] EXT4-fs (sda1): previous I/O error to superblock detected
+[12903.404648] sd 2:0:0:0: rejecting I/O to offline device
+[12903.408358] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12903.417546] EXT4-fs (sda1): previous I/O error to superblock detected
+[12903.423181] sd 2:0:0:0: rejecting I/O to offline device
+[12908.427939] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12908.433596] EXT4-fs (sda1): previous I/O error to superblock detected
+[12908.436472] sd 2:0:0:0: rejecting I/O to offline device
+[12908.440830] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12908.449099] EXT4-fs (sda1): previous I/O error to superblock detected
+[12908.453567] sd 2:0:0:0: rejecting I/O to offline device
+[12908.457049] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12908.462701] EXT4-fs (sda1): previous I/O error to superblock detected
+[12908.471340] sd 2:0:0:0: rejecting I/O to offline device
+[12908.477792] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12908.498109] EXT4-fs (sda1): previous I/O error to superblock detected
+[12908.507015] sd 2:0:0:0: rejecting I/O to offline device
+[12913.521683] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12913.530335] EXT4-fs (sda1): previous I/O error to superblock detected
+[12913.534761] sd 2:0:0:0: rejecting I/O to offline device
+[12913.538301] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12913.545581] EXT4-fs (sda1): previous I/O error to superblock detected
+[12913.548986] sd 2:0:0:0: rejecting I/O to offline device
+[12913.551557] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12913.557210] EXT4-fs (sda1): previous I/O error to superblock detected
+[12913.559374] sd 2:0:0:0: rejecting I/O to offline device
+[12913.560994] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12913.567508] EXT4-fs (sda1): previous I/O error to superblock detected
+[12913.570074] sd 2:0:0:0: rejecting I/O to offline device
+[12918.574236] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12918.582749] EXT4-fs (sda1): previous I/O error to superblock detected
+[12918.585679] sd 2:0:0:0: rejecting I/O to offline device
+[12918.588355] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12918.596193] EXT4-fs (sda1): previous I/O error to superblock detected
+[12918.599360] sd 2:0:0:0: rejecting I/O to offline device
+[12918.602315] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12918.609121] EXT4-fs (sda1): previous I/O error to superblock detected
+[12918.612665] sd 2:0:0:0: rejecting I/O to offline device
+[12918.615483] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12918.622829] EXT4-fs (sda1): previous I/O error to superblock detected
+[12918.625827] sd 2:0:0:0: rejecting I/O to offline device
+[12923.630438] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12923.637748] EXT4-fs (sda1): previous I/O error to superblock detected
+[12923.641255] sd 2:0:0:0: rejecting I/O to offline device
+[12923.644410] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12923.652699] EXT4-fs (sda1): previous I/O error to superblock detected
+[12923.656318] sd 2:0:0:0: rejecting I/O to offline device
+[12923.659491] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12923.667205] EXT4-fs (sda1): previous I/O error to superblock detected
+[12923.670608] sd 2:0:0:0: rejecting I/O to offline device
+[12923.673520] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12923.681570] EXT4-fs (sda1): previous I/O error to superblock detected
+[12923.685446] sd 2:0:0:0: rejecting I/O to offline device
+[12928.692345] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12928.700655] EXT4-fs (sda1): previous I/O error to superblock detected
+[12928.705346] sd 2:0:0:0: rejecting I/O to offline device
+[12928.708995] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12928.719350] EXT4-fs (sda1): previous I/O error to superblock detected
+[12928.723863] sd 2:0:0:0: rejecting I/O to offline device
+[12928.727186] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12928.737954] EXT4-fs (sda1): previous I/O error to superblock detected
+[12928.742356] sd 2:0:0:0: rejecting I/O to offline device
+[12928.746590] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12928.756185] EXT4-fs (sda1): previous I/O error to superblock detected
+[12928.760049] sd 2:0:0:0: rejecting I/O to offline device
+[12933.765618] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12933.772476] EXT4-fs (sda1): previous I/O error to superblock detected
+[12933.775540] sd 2:0:0:0: rejecting I/O to offline device
+[12933.777205] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12933.783435] EXT4-fs (sda1): previous I/O error to superblock detected
+[12933.785726] sd 2:0:0:0: rejecting I/O to offline device
+[12933.787871] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12933.793469] EXT4-fs (sda1): previous I/O error to superblock detected
+[12933.795650] sd 2:0:0:0: rejecting I/O to offline device
+[12933.799621] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12933.806058] EXT4-fs (sda1): previous I/O error to superblock detected
+[12933.809312] sd 2:0:0:0: rejecting I/O to offline device
+[12938.822401] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12938.834308] EXT4-fs (sda1): previous I/O error to superblock detected
+[12938.840133] sd 2:0:0:0: rejecting I/O to offline device
+[12938.844818] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12938.858635] EXT4-fs (sda1): previous I/O error to superblock detected
+[12938.864138] sd 2:0:0:0: rejecting I/O to offline device
+[12938.869352] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12938.880610] EXT4-fs (sda1): previous I/O error to superblock detected
+[12938.885276] sd 2:0:0:0: rejecting I/O to offline device
+[12938.889618] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12938.901062] EXT4-fs (sda1): previous I/O error to superblock detected
+[12938.905952] sd 2:0:0:0: rejecting I/O to offline device
+[12943.911448] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12943.920237] EXT4-fs (sda1): previous I/O error to superblock detected
+[12943.924811] sd 2:0:0:0: rejecting I/O to offline device
+[12943.928682] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12943.934169] EXT4-fs (sda1): previous I/O error to superblock detected
+[12943.936318] sd 2:0:0:0: rejecting I/O to offline device
+[12943.938021] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12943.943719] EXT4-fs (sda1): previous I/O error to superblock detected
+[12943.947280] sd 2:0:0:0: rejecting I/O to offline device
+[12943.949776] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12943.956521] EXT4-fs (sda1): previous I/O error to superblock detected
+[12943.971106] sd 2:0:0:0: rejecting I/O to offline device
+[12948.975424] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12948.984624] EXT4-fs (sda1): previous I/O error to superblock detected
+[12948.988064] sd 2:0:0:0: rejecting I/O to offline device
+[12948.991357] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12949.000481] EXT4-fs (sda1): previous I/O error to superblock detected
+[12949.003231] sd 2:0:0:0: rejecting I/O to offline device
+[12949.004949] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12949.009364] EXT4-fs (sda1): previous I/O error to superblock detected
+[12949.012327] sd 2:0:0:0: rejecting I/O to offline device
+[12949.014127] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12949.018959] EXT4-fs (sda1): previous I/O error to superblock detected
+[12949.021140] sd 2:0:0:0: rejecting I/O to offline device
+[12954.026262] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12954.037256] EXT4-fs (sda1): previous I/O error to superblock detected
+[12954.040986] sd 2:0:0:0: rejecting I/O to offline device
+[12954.046029] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12954.053041] EXT4-fs (sda1): previous I/O error to superblock detected
+[12954.056028] sd 2:0:0:0: rejecting I/O to offline device
+[12954.058965] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12954.068241] EXT4-fs (sda1): previous I/O error to superblock detected
+[12954.071834] sd 2:0:0:0: rejecting I/O to offline device
+[12954.074987] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12954.085004] EXT4-fs (sda1): previous I/O error to superblock detected
+[12954.088227] sd 2:0:0:0: rejecting I/O to offline device
+[12959.092334] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12959.100092] EXT4-fs (sda1): previous I/O error to superblock detected
+[12959.103808] sd 2:0:0:0: rejecting I/O to offline device
+[12959.106996] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12959.115798] EXT4-fs (sda1): previous I/O error to superblock detected
+[12959.119827] sd 2:0:0:0: rejecting I/O to offline device
+[12959.123308] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12959.131260] EXT4-fs (sda1): previous I/O error to superblock detected
+[12959.135123] sd 2:0:0:0: rejecting I/O to offline device
+[12959.138399] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12959.146988] EXT4-fs (sda1): previous I/O error to superblock detected
+[12959.151164] sd 2:0:0:0: rejecting I/O to offline device
+[12964.157352] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12964.169139] EXT4-fs (sda1): previous I/O error to superblock detected
+[12964.175094] sd 2:0:0:0: rejecting I/O to offline device
+[12964.180573] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12964.190199] EXT4-fs (sda1): previous I/O error to superblock detected
+[12964.195523] sd 2:0:0:0: rejecting I/O to offline device
+[12964.200422] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12964.206927] EXT4-fs (sda1): previous I/O error to superblock detected
+[12964.210954] sd 2:0:0:0: rejecting I/O to offline device
+[12964.214670] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12964.221178] EXT4-fs (sda1): previous I/O error to superblock detected
+[12964.224751] sd 2:0:0:0: rejecting I/O to offline device
+[12969.232674] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12969.240673] EXT4-fs (sda1): previous I/O error to superblock detected
+[12969.244877] sd 2:0:0:0: rejecting I/O to offline device
+[12969.248383] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12969.258791] EXT4-fs (sda1): previous I/O error to superblock detected
+[12969.263512] sd 2:0:0:0: rejecting I/O to offline device
+[12969.267200] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12969.275157] EXT4-fs (sda1): previous I/O error to superblock detected
+[12969.279097] sd 2:0:0:0: rejecting I/O to offline device
+[12969.282739] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12969.292160] EXT4-fs (sda1): previous I/O error to superblock detected
+[12969.296396] sd 2:0:0:0: rejecting I/O to offline device
+[12974.302009] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12974.307153] EXT4-fs (sda1): previous I/O error to superblock detected
+[12974.310522] sd 2:0:0:0: rejecting I/O to offline device
+[12974.313722] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12974.320776] EXT4-fs (sda1): previous I/O error to superblock detected
+[12974.323928] sd 2:0:0:0: rejecting I/O to offline device
+[12974.326622] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12974.333195] EXT4-fs (sda1): previous I/O error to superblock detected
+[12974.336722] sd 2:0:0:0: rejecting I/O to offline device
+[12974.339600] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12974.346123] EXT4-fs (sda1): previous I/O error to superblock detected
+[12974.349478] sd 2:0:0:0: rejecting I/O to offline device
+[12979.353581] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12979.361834] EXT4-fs (sda1): previous I/O error to superblock detected
+[12979.366448] sd 2:0:0:0: rejecting I/O to offline device
+[12979.369787] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12979.379359] EXT4-fs (sda1): previous I/O error to superblock detected
+[12979.384776] sd 2:0:0:0: rejecting I/O to offline device
+[12979.387732] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12979.392112] EXT4-fs (sda1): previous I/O error to superblock detected
+[12979.394074] sd 2:0:0:0: rejecting I/O to offline device
+[12979.396016] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12979.403382] EXT4-fs (sda1): previous I/O error to superblock detected
+[12979.406450] sd 2:0:0:0: rejecting I/O to offline device
+[12984.410084] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12984.418099] EXT4-fs (sda1): previous I/O error to superblock detected
+[12984.421583] sd 2:0:0:0: rejecting I/O to offline device
+[12984.426037] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12984.431810] EXT4-fs (sda1): previous I/O error to superblock detected
+[12984.433777] sd 2:0:0:0: rejecting I/O to offline device
+[12984.435876] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12984.445948] EXT4-fs (sda1): previous I/O error to superblock detected
+[12984.449362] sd 2:0:0:0: rejecting I/O to offline device
+[12984.453923] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12984.464932] EXT4-fs (sda1): previous I/O error to superblock detected
+[12984.468384] sd 2:0:0:0: rejecting I/O to offline device
+[12989.476929] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12989.490037] EXT4-fs (sda1): previous I/O error to superblock detected
+[12989.498566] sd 2:0:0:0: rejecting I/O to offline device
+[12989.508846] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12989.523711] EXT4-fs (sda1): previous I/O error to superblock detected
+[12989.535847] sd 2:0:0:0: rejecting I/O to offline device
+[12989.541461] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12989.556855] EXT4-fs (sda1): previous I/O error to superblock detected
+[12989.566674] sd 2:0:0:0: rejecting I/O to offline device
+[12989.574086] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12989.600489] EXT4-fs (sda1): previous I/O error to superblock detected
+[12989.612434] sd 2:0:0:0: rejecting I/O to offline device
+[12994.623775] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12994.633004] EXT4-fs (sda1): previous I/O error to superblock detected
+[12994.638117] sd 2:0:0:0: rejecting I/O to offline device
+[12994.641788] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12994.651282] EXT4-fs (sda1): previous I/O error to superblock detected
+[12994.655819] sd 2:0:0:0: rejecting I/O to offline device
+[12994.659561] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12994.668153] EXT4-fs (sda1): previous I/O error to superblock detected
+[12994.672631] sd 2:0:0:0: rejecting I/O to offline device
+[12994.676276] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12994.687427] EXT4-fs (sda1): previous I/O error to superblock detected
+[12994.710501] sd 2:0:0:0: rejecting I/O to offline device
+[12999.721304] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[12999.728909] EXT4-fs (sda1): previous I/O error to superblock detected
+[12999.732469] sd 2:0:0:0: rejecting I/O to offline device
+[12999.736156] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[12999.744874] EXT4-fs (sda1): previous I/O error to superblock detected
+[12999.748406] sd 2:0:0:0: rejecting I/O to offline device
+[12999.752530] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[12999.760267] EXT4-fs (sda1): previous I/O error to superblock detected
+[12999.763997] sd 2:0:0:0: rejecting I/O to offline device
+[12999.766964] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[12999.775736] EXT4-fs (sda1): previous I/O error to superblock detected
+[12999.779170] sd 2:0:0:0: rejecting I/O to offline device
+[13004.791869] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13004.799511] EXT4-fs (sda1): previous I/O error to superblock detected
+[13004.803398] sd 2:0:0:0: rejecting I/O to offline device
+[13004.806580] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13004.815841] EXT4-fs (sda1): previous I/O error to superblock detected
+[13004.819755] sd 2:0:0:0: rejecting I/O to offline device
+[13004.823063] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13004.830787] EXT4-fs (sda1): previous I/O error to superblock detected
+[13004.834794] sd 2:0:0:0: rejecting I/O to offline device
+[13004.838019] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13004.846878] EXT4-fs (sda1): previous I/O error to superblock detected
+[13004.850398] sd 2:0:0:0: rejecting I/O to offline device
+[13009.855463] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13009.862058] EXT4-fs (sda1): previous I/O error to superblock detected
+[13009.864677] sd 2:0:0:0: rejecting I/O to offline device
+[13009.867039] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13009.872583] EXT4-fs (sda1): previous I/O error to superblock detected
+[13009.880200] sd 2:0:0:0: rejecting I/O to offline device
+[13009.882413] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13009.888564] EXT4-fs (sda1): previous I/O error to superblock detected
+[13009.891314] sd 2:0:0:0: rejecting I/O to offline device
+[13009.893862] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13009.900780] EXT4-fs (sda1): previous I/O error to superblock detected
+[13009.905201] sd 2:0:0:0: rejecting I/O to offline device
+[13014.910714] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13014.925402] EXT4-fs (sda1): previous I/O error to superblock detected
+[13014.930673] sd 2:0:0:0: rejecting I/O to offline device
+[13014.940651] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13014.959063] EXT4-fs (sda1): previous I/O error to superblock detected
+[13014.965312] sd 2:0:0:0: rejecting I/O to offline device
+[13014.974622] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13014.991177] EXT4-fs (sda1): previous I/O error to superblock detected
+[13014.997652] sd 2:0:0:0: rejecting I/O to offline device
+[13015.005248] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13015.024790] EXT4-fs (sda1): previous I/O error to superblock detected
+[13015.031082] sd 2:0:0:0: rejecting I/O to offline device
+[13020.041521] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13020.048675] EXT4-fs (sda1): previous I/O error to superblock detected
+[13020.051953] sd 2:0:0:0: rejecting I/O to offline device
+[13020.055490] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13020.063181] EXT4-fs (sda1): previous I/O error to superblock detected
+[13020.066068] sd 2:0:0:0: rejecting I/O to offline device
+[13020.068699] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13020.075515] EXT4-fs (sda1): previous I/O error to superblock detected
+[13020.078883] sd 2:0:0:0: rejecting I/O to offline device
+[13020.081293] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13020.089096] EXT4-fs (sda1): previous I/O error to superblock detected
+[13020.092429] sd 2:0:0:0: rejecting I/O to offline device
+[13025.102237] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13025.111716] EXT4-fs (sda1): previous I/O error to superblock detected
+[13025.115835] sd 2:0:0:0: rejecting I/O to offline device
+[13025.117804] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13025.122727] EXT4-fs (sda1): previous I/O error to superblock detected
+[13025.124872] sd 2:0:0:0: rejecting I/O to offline device
+[13025.127232] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13025.134463] EXT4-fs (sda1): previous I/O error to superblock detected
+[13025.137066] sd 2:0:0:0: rejecting I/O to offline device
+[13025.139848] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13025.146484] EXT4-fs (sda1): previous I/O error to superblock detected
+[13025.148611] sd 2:0:0:0: rejecting I/O to offline device
+[13030.152193] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13030.160686] EXT4-fs (sda1): previous I/O error to superblock detected
+[13030.165088] sd 2:0:0:0: rejecting I/O to offline device
+[13030.168561] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13030.179145] EXT4-fs (sda1): previous I/O error to superblock detected
+[13030.183613] sd 2:0:0:0: rejecting I/O to offline device
+[13030.187643] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13030.196663] EXT4-fs (sda1): previous I/O error to superblock detected
+[13030.201089] sd 2:0:0:0: rejecting I/O to offline device
+[13030.204608] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13030.214723] EXT4-fs (sda1): previous I/O error to superblock detected
+[13030.218946] sd 2:0:0:0: rejecting I/O to offline device
+[13035.224977] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13035.229939] EXT4-fs (sda1): previous I/O error to superblock detected
+[13035.232141] sd 2:0:0:0: rejecting I/O to offline device
+[13035.233722] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13035.240479] EXT4-fs (sda1): previous I/O error to superblock detected
+[13035.242909] sd 2:0:0:0: rejecting I/O to offline device
+[13035.245422] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13035.253421] EXT4-fs (sda1): previous I/O error to superblock detected
+[13035.257622] sd 2:0:0:0: rejecting I/O to offline device
+[13035.261224] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13035.271938] EXT4-fs (sda1): previous I/O error to superblock detected
+[13035.275997] sd 2:0:0:0: rejecting I/O to offline device
+[13040.281980] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13040.291878] EXT4-fs (sda1): previous I/O error to superblock detected
+[13040.295176] sd 2:0:0:0: rejecting I/O to offline device
+[13040.299760] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13040.308652] EXT4-fs (sda1): previous I/O error to superblock detected
+[13040.312175] sd 2:0:0:0: rejecting I/O to offline device
+[13040.316287] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13040.327521] EXT4-fs (sda1): previous I/O error to superblock detected
+[13040.332224] sd 2:0:0:0: rejecting I/O to offline device
+[13040.336829] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13040.349057] EXT4-fs (sda1): previous I/O error to superblock detected
+[13040.354866] sd 2:0:0:0: rejecting I/O to offline device
+[13045.363048] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13045.369281] EXT4-fs (sda1): previous I/O error to superblock detected
+[13045.372601] sd 2:0:0:0: rejecting I/O to offline device
+[13045.375544] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13045.383614] EXT4-fs (sda1): previous I/O error to superblock detected
+[13045.387418] sd 2:0:0:0: rejecting I/O to offline device
+[13045.391134] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13045.400117] EXT4-fs (sda1): previous I/O error to superblock detected
+[13045.404714] sd 2:0:0:0: rejecting I/O to offline device
+[13045.408111] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13045.417681] EXT4-fs (sda1): previous I/O error to superblock detected
+[13045.444071] sd 2:0:0:0: rejecting I/O to offline device
+[13050.452881] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13050.461822] EXT4-fs (sda1): previous I/O error to superblock detected
+[13050.464427] sd 2:0:0:0: rejecting I/O to offline device
+[13050.470428] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13050.479644] EXT4-fs (sda1): previous I/O error to superblock detected
+[13050.483413] sd 2:0:0:0: rejecting I/O to offline device
+[13050.486992] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13050.498646] EXT4-fs (sda1): previous I/O error to superblock detected
+[13050.502762] sd 2:0:0:0: rejecting I/O to offline device
+[13050.505603] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13050.517442] EXT4-fs (sda1): previous I/O error to superblock detected
+[13050.521681] sd 2:0:0:0: rejecting I/O to offline device
+[13055.529323] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13055.538105] EXT4-fs (sda1): previous I/O error to superblock detected
+[13055.542221] sd 2:0:0:0: rejecting I/O to offline device
+[13055.545755] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13055.555508] EXT4-fs (sda1): previous I/O error to superblock detected
+[13055.559850] sd 2:0:0:0: rejecting I/O to offline device
+[13055.563860] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13055.572881] EXT4-fs (sda1): previous I/O error to superblock detected
+[13055.577206] sd 2:0:0:0: rejecting I/O to offline device
+[13055.580887] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13055.590435] EXT4-fs (sda1): previous I/O error to superblock detected
+[13055.594956] sd 2:0:0:0: rejecting I/O to offline device
+[13060.600882] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13060.607910] EXT4-fs (sda1): previous I/O error to superblock detected
+[13060.612267] sd 2:0:0:0: rejecting I/O to offline device
+[13060.616589] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13060.626977] EXT4-fs (sda1): previous I/O error to superblock detected
+[13060.631314] sd 2:0:0:0: rejecting I/O to offline device
+[13060.635254] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13060.644269] EXT4-fs (sda1): previous I/O error to superblock detected
+[13060.648494] sd 2:0:0:0: rejecting I/O to offline device
+[13060.652483] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13060.662733] EXT4-fs (sda1): previous I/O error to superblock detected
+[13060.667030] sd 2:0:0:0: rejecting I/O to offline device
+[13065.671843] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13065.679262] EXT4-fs (sda1): previous I/O error to superblock detected
+[13065.683654] sd 2:0:0:0: rejecting I/O to offline device
+[13065.687459] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13065.696254] EXT4-fs (sda1): previous I/O error to superblock detected
+[13065.699502] sd 2:0:0:0: rejecting I/O to offline device
+[13065.702322] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13065.709555] EXT4-fs (sda1): previous I/O error to superblock detected
+[13065.712614] sd 2:0:0:0: rejecting I/O to offline device
+[13065.714528] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13065.721169] EXT4-fs (sda1): previous I/O error to superblock detected
+[13065.724463] sd 2:0:0:0: rejecting I/O to offline device
+[13070.728636] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13070.744481] EXT4-fs (sda1): previous I/O error to superblock detected
+[13070.750444] sd 2:0:0:0: rejecting I/O to offline device
+[13070.755958] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13070.769011] EXT4-fs (sda1): previous I/O error to superblock detected
+[13070.775825] sd 2:0:0:0: rejecting I/O to offline device
+[13070.782575] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13070.792985] EXT4-fs (sda1): previous I/O error to superblock detected
+[13070.798604] sd 2:0:0:0: rejecting I/O to offline device
+[13070.802641] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13070.814524] EXT4-fs (sda1): previous I/O error to superblock detected
+[13070.818881] sd 2:0:0:0: rejecting I/O to offline device
+[13075.824378] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13075.832373] EXT4-fs (sda1): previous I/O error to superblock detected
+[13075.834919] sd 2:0:0:0: rejecting I/O to offline device
+[13075.836836] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13075.842007] EXT4-fs (sda1): previous I/O error to superblock detected
+[13075.844511] sd 2:0:0:0: rejecting I/O to offline device
+[13075.846447] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13075.850836] EXT4-fs (sda1): previous I/O error to superblock detected
+[13075.852857] sd 2:0:0:0: rejecting I/O to offline device
+[13075.855712] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13075.862194] EXT4-fs (sda1): previous I/O error to superblock detected
+[13075.864289] sd 2:0:0:0: rejecting I/O to offline device
+[13080.870068] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13080.875920] EXT4-fs (sda1): previous I/O error to superblock detected
+[13080.878568] sd 2:0:0:0: rejecting I/O to offline device
+[13080.880510] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13080.885789] EXT4-fs (sda1): previous I/O error to superblock detected
+[13080.888570] sd 2:0:0:0: rejecting I/O to offline device
+[13080.890618] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13080.896750] EXT4-fs (sda1): previous I/O error to superblock detected
+[13080.898901] sd 2:0:0:0: rejecting I/O to offline device
+[13080.900543] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13080.905321] EXT4-fs (sda1): previous I/O error to superblock detected
+[13080.907580] sd 2:0:0:0: rejecting I/O to offline device
+[13085.911629] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13085.920354] EXT4-fs (sda1): previous I/O error to superblock detected
+[13085.924775] sd 2:0:0:0: rejecting I/O to offline device
+[13085.928336] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13085.938714] EXT4-fs (sda1): previous I/O error to superblock detected
+[13085.942851] sd 2:0:0:0: rejecting I/O to offline device
+[13085.946075] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13085.954277] EXT4-fs (sda1): previous I/O error to superblock detected
+[13085.956238] sd 2:0:0:0: rejecting I/O to offline device
+[13085.957870] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13085.963082] EXT4-fs (sda1): previous I/O error to superblock detected
+[13085.967036] sd 2:0:0:0: rejecting I/O to offline device
+[13090.972371] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #66380: block 25269: comm dbus-daemon: lblock 0 mapped to illegal pblock 25269 (length 1)
+[13090.977937] EXT4-fs (sda1): previous I/O error to superblock detected
+[13090.980294] sd 2:0:0:0: rejecting I/O to offline device
+[13090.982753] EXT4-fs error (device sda1): ext4_readdir:180: inode #66380: comm dbus-daemon: path /var/lib/snapd/dbus-1/system-services: directory contains a hole at offset 0
+[13090.988004] EXT4-fs (sda1): previous I/O error to superblock detected
+[13090.990234] sd 2:0:0:0: rejecting I/O to offline device
+[13090.992003] EXT4-fs error (device sda1): ext4_map_blocks:563: inode #16199: block 17956: comm dbus-daemon: lblock 0 mapped to illegal pblock 17956 (length 1)
+[13090.996319] EXT4-fs (sda1): previous I/O error to superblock detected
+[13090.998545] sd 2:0:0:0: rejecting I/O to offline device
+[13091.000191] EXT4-fs error (device sda1): ext4_readdir:180: inode #16199: comm dbus-daemon: path /usr/share/dbus-1/system-services: directory contains a hole at offset 0
+[13091.004975] EXT4-fs (sda1): previous I/O error to superblock detected
+[13091.007189] sd 2:0:0:0: rejecting I/O to offline device
